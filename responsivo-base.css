@@ -1,0 +1,57 @@
+/********** Estilos Basae **********/
+* {
+    box-sizing: border-box;
+    margin:0;
+  }
+  h1 {
+    margin-bottom: 15px;
+    padding-top: 2.5%;
+    padding-bottom: 1%;
+  }
+  section {
+    border: 3px solid rgb(32, 32, 32);
+    background-color: #fffbd0;
+    width: 100%;
+    height: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+    color: rgb(0, 0, 0);
+    text-align: right;
+  }
+  div.row div{
+    padding: 10px;
+  }
+  h1{
+    text-align: center;
+  }
+  p{
+    clear: right;
+    text-align: left;
+    padding-top: 2.5%;
+  }
+
+  .motivo1{
+    float: right;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: rgb(133, 133, 255);
+    padding: 1.33%;
+  }
+
+  .motivo2{
+    float: right;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: rgb(168, 255, 168);
+    padding: 1.33%;
+    
+  }
+
+  .motivo3{
+    float: right;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: rgb(255, 133, 133);
+    padding: 1.33%;
+  }
