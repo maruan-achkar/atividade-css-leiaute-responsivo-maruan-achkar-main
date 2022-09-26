@@ -29,29 +29,24 @@
     clear: right;
     text-align: left;
     padding-top: 2.5%;
+    padding-left: 2.5%;
   }
 
-  .motivo1{
+  h2{
     float: right;
     border-left: 3px solid black;
     border-bottom: 3px solid black;
-    background-color: rgb(133, 133, 255);
     padding: 1.33%;
+  }
+  
+  .motivo1{
+    background-color: rgb(133, 133, 255);
   }
 
   .motivo2{
-    float: right;
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
-    background-color: rgb(168, 255, 168);
-    padding: 1.33%;
-    
+    background-color: rgb(168, 255, 168); 
   }
 
   .motivo3{
-    float: right;
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
     background-color: rgb(255, 133, 133);
-    padding: 1.33%;
   }
